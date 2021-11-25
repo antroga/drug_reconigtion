@@ -1,0 +1,7 @@
+# drug_reconigtion
+Project for accesibility.
+
+Model using OCR techniques for character reconigtion in drug boxes.
+Input images from webcam. 
+Real time reconigtion.
+Audio response using GPT3. 
